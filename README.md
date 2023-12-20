@@ -5,8 +5,8 @@ My CV
 #### Technical Skills: Python, SQL, java, Snowflake, MATLAB
 
 ## Education
-- M.S,Computer Science | University of Engineering and Technology- Lahore - Pakistan(_january 2024_)	 			        		
-- B.S,Software Engineering | GIFT University - Gujranwala - Pakistan (_Oct 2021_)
+- BS, Mathematics | GIft University - gujranwala - Pakistan(_january 2022_)	 			        		
+
 
 ## Work Experience
 
