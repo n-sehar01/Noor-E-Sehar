@@ -1,11 +1,11 @@
 # Noor-E-Sehar
 My CV
-# Data Scientist
+# Mathematician
 
-#### Technical Skills: Python, SQL, java, Snowflake, MATLAB
+#### Technical Skills: Matlab, word, java, Excel, Powerpoint
 
 ## Education
-- BS, Mathematics | GIft University - gujranwala - Pakistan(_january 2022_)	 			        		
+- BS, Mathematics | GIft University - gujranwala - Pakistan			        		
 
 
 ## Work Experience
